@@ -1,0 +1,4 @@
+Defaults env_keep += "PIP_INSTALL"
+Defaults env_keep += "TZ"
+
+jenkins ALL=(ALL:ALL) NOPASSWD:ALL
